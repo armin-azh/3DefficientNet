@@ -1,6 +1,6 @@
 from ._extended_model import *
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 
 
 EfficientNetB0 = efficient_net_b0
